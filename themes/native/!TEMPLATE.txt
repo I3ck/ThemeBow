@@ -1,0 +1,92 @@
+global_fg = #ffffff
+global_bg = #ffffff
+
+comment_fg = #ffffff
+comment_bg = #ffffff
+
+string_fg = #ffffff
+string_bg = #ffffff
+
+number_fg = #ffffff
+number_bg = #ffffff
+
+constant_fg = #ffffff
+constant_bg = #ffffff
+
+variable_fg = #ffffff
+variable_bg = #ffffff
+
+keyword_fg = #ffffff
+keyword_bg = #ffffff
+
+storage_fg = #ffffff
+storage_bg = #ffffff
+
+class_fg = #ffffff
+class_bg = #ffffff
+
+inherited_fg = #ffffff
+inherited_bg = #ffffff
+
+function_fg = #ffffff
+function_bg = #ffffff
+
+argument_fg = #ffffff
+argument_bg = #ffffff
+
+tag_fg = #ffffff
+tag_bg = #ffffff
+
+attribute_fg = #ffffff
+attribute_bg = #ffffff
+
+library_fg = #ffffff
+library_bg = #ffffff
+
+invalid_fg = #ffffff
+invalid_bg = #ffffff
+
+todo_fg = #ffffff
+todo_bg = #ffffff
+
+label_fg     = #ffffff
+label_bg     = #ffffff
+
+structure_fg = #ffffff
+structure_bg = #ffffff
+
+special_fg   = #ffffff
+special_bg   = #ffffff
+
+title_fg     = #ffffff
+title_bg     = #ffffff
+
+linenumber_fg = #ffffff
+linenumber_bg = #ffffff
+
+commenttag_fg = #ffffff
+commenttag_bg = #ffffff
+
+interface_fg = #ffffff
+interface_bg = #ffffff
+
+bracket_fg   = #ffffff
+bracket_bg   = #ffffff
+
+operator_fg  = #ffffff
+operator_bg  = #ffffff
+
+method_fg    = #ffffff
+method_bg    = #ffffff
+
+char_fg      = #ffffff
+char_bg      = #ffffff
+
+selection_fg = #ffffff
+selection_bg = #ffffff
+
+parentheses_fg = #ffffff
+parentheses_bg = #ffffff
+
+static_fg    = #ffffff
+static_bg    = #ffffff
